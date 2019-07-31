@@ -71,7 +71,7 @@
             "version": "v1.3.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:bestiejs/punycode.js.git",
+                "url": "https://github.com/bestiejs/punycode.js.git",
                 "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3"
             },
             "dist": {
@@ -509,12 +509,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/luoxiaojun1992/yii2-zipkin.git",
-                "reference": "9364a6a7adfca2621c3bf74eb5794add43a75316"
+                "reference": "886b22aed4299e949111e65df5c3596e4d21d6f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/luoxiaojun1992/yii2-zipkin/zipball/9364a6a7adfca2621c3bf74eb5794add43a75316",
-                "reference": "9364a6a7adfca2621c3bf74eb5794add43a75316",
+                "url": "https://api.github.com/repos/luoxiaojun1992/yii2-zipkin/zipball/886b22aed4299e949111e65df5c3596e4d21d6f3",
+                "reference": "886b22aed4299e949111e65df5c3596e4d21d6f3",
                 "shasum": ""
             },
             "require": {
@@ -547,7 +547,7 @@
                 "yii2",
                 "zipkin"
             ],
-            "time": "2019-06-18T10:00:48+00:00"
+            "time": "2019-07-31T10:30:17+00:00"
         },
         {
             "name": "openzipkin/zipkin",
