@@ -509,12 +509,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/luoxiaojun1992/yii2-zipkin.git",
-                "reference": "886b22aed4299e949111e65df5c3596e4d21d6f3"
+                "reference": "423a8d69fd98096d0e0c1efa51bc621c3a4ff453"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/luoxiaojun1992/yii2-zipkin/zipball/886b22aed4299e949111e65df5c3596e4d21d6f3",
-                "reference": "886b22aed4299e949111e65df5c3596e4d21d6f3",
+                "url": "https://api.github.com/repos/luoxiaojun1992/yii2-zipkin/zipball/423a8d69fd98096d0e0c1efa51bc621c3a4ff453",
+                "reference": "423a8d69fd98096d0e0c1efa51bc621c3a4ff453",
                 "shasum": ""
             },
             "require": {
@@ -547,7 +547,7 @@
                 "yii2",
                 "zipkin"
             ],
-            "time": "2019-07-31T10:30:17+00:00"
+            "time": "2019-09-02T11:10:27+00:00"
         },
         {
             "name": "openzipkin/zipkin",
